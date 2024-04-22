@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bhargavprofile.vercel.app/](https://bhargavprofile.vercel.app/)
 
-- 💬 Ask me about **Full stack development**
+- 💬 Ask me about **full stack development**
 
 - 📫 How to reach me **bhargav.gembali2020@gmail.com**
 
