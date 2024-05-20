@@ -14,7 +14,7 @@
 - 📫 How to reach me **bhargav.gembali2020@gmail.com**
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin)](https://github.com/BhargavGembali)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
