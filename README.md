@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavgembali&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavgembali" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot**
+- 🔭 I’m currently working on **MERN development**
 
-- 🌱 I’m currently learning **App development**
+- 🌱 I’m currently learning **Web development and DSA**
 
 - 👨‍💻 All of my projects are available at [https://bhargavprofile.vercel.app/](https://bhargavprofile.vercel.app/)
 
